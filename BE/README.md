@@ -1,8 +1,16 @@
-```
-npm install
-npm run dev
+# run backend
+
+## setup .env
+```bash
+cp .env.example .env
 ```
 
+## install package
+```bash
+npm i
 ```
-open http://localhost:3000
+
+## run project
+```bash
+npm run dev
 ```
